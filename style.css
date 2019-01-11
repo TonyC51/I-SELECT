@@ -1,0 +1,32 @@
+.candidat {
+	font-style: italic;
+	font-size: 20px;
+	color: #314f68;
+	background-color: #ffd900;
+	border-radius: 25px;
+}
+
+body {
+	font-family: Arial Narrow;
+}
+
+.intro {
+	color: #314f68;
+	font-size: 20px;
+}
+
+h1 {
+	color: #314f68;
+	text-shadow: 3px 3px #ffd900;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+h2 {
+	font-weight: bold;
+	color: #314f68;
+}
+
+form {
+	color: #314f68;	
+}
