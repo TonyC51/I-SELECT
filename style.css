@@ -30,3 +30,8 @@ h2 {
 form {
 	color: #314f68;	
 }
+
+#logo {
+	height: auto;
+	width: 50%;
+}
